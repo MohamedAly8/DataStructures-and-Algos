@@ -20,6 +20,7 @@ vector<int> pairs_brute_force(vector<int> array, int sum){
 
 // Efficient using data structure (hashtable)
 // [10,5, 2 ,4]
+
 vector<int> pairs(vector<int> arr, int S){
 
 
